@@ -23,3 +23,6 @@ def fizzbuzz():
             print(i)    
 
 
+name = "Steven"
+
+print(f"Hi, {name}." if name == "Steven" else f"Goodbye, {name}.")
